@@ -1,4 +1,7 @@
 Manjula Kulathunga
+divyanjana
+Nethmi 
+Test Name
 Nethmi
 Meshith Ariyawansa
 Janaka Chamith
@@ -19,8 +22,10 @@ Isuru
 akila
 =======
 https://www.facebook.com/bhanukaonline
-<<<<<<< HEAD
-=======
 Hasindu
+<<<<<<< HEAD
 >>>>>>> 56d9987bdb2ea08dd75e0d40ad7a2b7c25816b33
 >>>>>>> 5fc1c7da954335af69bd787a1da2e29c16b7645e
+=======
+>>>>>>> c5f5b3faf71b2987bc187bd1f086210523465e99
+hasindu
