@@ -13,7 +13,4 @@ bhanuka
 Pasindu Neshan
 Isuru
 https://www.facebook.com/bhanukaonline
-<<<<<<< HEAD
-=======
 Hasindu
->>>>>>> 56d9987bdb2ea08dd75e0d40ad7a2b7c25816b33
