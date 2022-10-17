@@ -1,4 +1,8 @@
 Manjula Kulathunga
 Meshith Ariyawansa
+<<<<<<< Updated upstream
 Janaka Chamith
 Supun basura
+=======
+Mahel Chandupa
+>>>>>>> Stashed changes
