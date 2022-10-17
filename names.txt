@@ -1,8 +1,9 @@
 Manjula Kulathunga
+Test Name
 Meshith Ariyawansa
-<<<<<<< Updated upstream
 Janaka Chamith
 Supun basura
-=======
 Mahel Chandupa
->>>>>>> Stashed changes
+supun basura
+Hizbullah Razik
+Ravindu Wijethunga
