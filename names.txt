@@ -1,14 +1,13 @@
 Manjula Kulathunga
-Nethmi 
-Test Name
+Nethmi
 Meshith Ariyawansa
 Janaka Chamith
 Supun basura
 Mahel Chandupa
-supun basura
+basura
 Hizbullah Razik
 Ravindu Wijethunga
-akila
+Akila
 Janarthan
 bhanuka
 Pasidu
@@ -16,4 +15,12 @@ Isuru
 hsindu
 Pasindu Neshan
 Isuru
+<<<<<<< HEAD
 akila
+=======
+https://www.facebook.com/bhanukaonline
+<<<<<<< HEAD
+=======
+Hasindu
+>>>>>>> 56d9987bdb2ea08dd75e0d40ad7a2b7c25816b33
+>>>>>>> 5fc1c7da954335af69bd787a1da2e29c16b7645e
