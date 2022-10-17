@@ -10,10 +10,9 @@ Mahel Chandupa perera
 basura
 Hizbullah Razik
 Ravindu Wijethunga
-<<<<<<< HEAD
 Akila 
 Akila 
->>>>>>> e05f08f11ce2c95c0ca2eb768babfbd2fed29560Janarthan
+Janarthan
 bhanuka
 Pasidu
 Isuru
