@@ -10,8 +10,12 @@ Mahel Chandupa perera
 basura
 Hizbullah Razik
 Ravindu Wijethunga
+<<<<<<< HEAD
 Akila 
 Akila 
+=======
+Akila dd
+>>>>>>> parent of 383cec8 (Update names.txt)
 Janarthan
 bhanuka
 Pasidu
